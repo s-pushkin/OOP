@@ -1,0 +1,3 @@
+C:/ООП/task_3/cmake-build-debug/CMakeFiles/3number.dir
+C:/ООП/task_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ООП/task_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
